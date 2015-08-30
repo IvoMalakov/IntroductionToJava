@@ -1,0 +1,4 @@
+d:\
+cd Ivo\kurs po programirane\nivo 1 - Fundamental Level\Java Basic - September 2015\domashno 1 - Vuvedenie v Java\Intro-Java-Homework\srcD:\Ivo\kurs po programirane\nivo 1 - Fundamental Level\Java Basic - September 2015\domashno 1 - Vuvedenie v Java\Intro-Java-Homework\src
+set path=%path%;C:\Program Files\Java\jdk1.8.0_60\bin
+javac sumtwonumbers.java
